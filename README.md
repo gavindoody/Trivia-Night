@@ -1,7 +1,7 @@
 # Trivia-Night
 A multiple choice trivia game built with HTML, CSS, JavaScript and cdnjs libraries. Made to test myself with .css, with the implementation of animations and other complex .css styles. Done entirely in my spare time.
 # Features
-This project has a lot of features that I wanted to add purely as a way to challenge myself, such as the option to choose from multiple categories (History, Sport, Entertainment, Technology, Geography are the ones I had myself, however the user is free to add or alter those themselves. More info below about that), a timer to answer each question, score tracking, sound effects for correct and incorrect answers, and questions pulled from a Google Sheets document (more information on that below)
+This project has a lot of features that I wanted to add purely as a way to challenge myself, such as the option to choose from multiple categories (History, Sport, Entertainment, Technology, Geography are the ones I had myself, however the user is free to add or alter those themselves. More info below about that), a timer to answer each question, score tracking, sound effects for correct and incorrect answers (something I've left for the user to add their own), and questions pulled from a Google Sheets document (more information on that below)
 # How to Play
 Start the Game: Click the "Start" button on the welcome screen.
 Choose a Category: Select a category from the options provided.
